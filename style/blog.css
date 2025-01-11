@@ -8,6 +8,7 @@
     background: #C6E4D6;
     width: 80%;
     margin: 120px 160px 80px 160px;
+    border-radius: 22px;
 }
 .title{
     font-size: 24px;
@@ -28,11 +29,13 @@
 .btn{
     font-size: 18px;
     font-weight: 600px;
-    
     padding: 17px 34px;
     background-color: #006A50;
 }
 a{
     text-decoration: none;
     color: rgba(255, 255, 255, 1);
+}
+button :hover{
+    background-color: gray;
 }
